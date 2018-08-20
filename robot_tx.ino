@@ -1,3 +1,5 @@
+//author: Fényes Balázs (fenyesb.github.io)
+
 #define LED 0
 #define TX 1
 #define SW 2

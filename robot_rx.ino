@@ -1,3 +1,5 @@
+//author: Fényes Balázs (fenyesb.github.io)
+
 //robot rx
 /*
   vcc                gnd
